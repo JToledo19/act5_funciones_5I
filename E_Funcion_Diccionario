@@ -1,0 +1,13 @@
+def mi_diccionario():
+            print("")
+            print("conjunto")
+            alumno= {
+                "id": "1106",
+                "nombre": "Toledo", 
+                "Edad": 17
+            }
+            print (alumno)
+            for x in alumno:
+                print (alumno [x])
+
+mi_diccionario()
